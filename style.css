@@ -1,0 +1,27 @@
+table, th, td {
+  border: 5px solid black;
+padding: 15px;
+background-color: beige;
+
+}
+
+#myText {
+  color: skyblue;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  width: 50%;
+  background-color: black;
+  width: 150px;
+  padding: 20px;
+  border: 20px solid green;
+  
+}
+
+img {
+  width: 50%;
+    background-color: orange;
+  width: 200px;
+  padding: 25px;
+  border: 25px solid red;
+  margin: 30px;
+}
